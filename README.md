@@ -8,7 +8,7 @@ RxSwift를 공부하고, 다양한 방식으로 사용해보기.
 [Reactive X Git - 공식 RxSwift 깃허브](https://github.com/ReactiveX/RxSwift)
 [fimuxd님 Git - RxSwift를 스터디하는 공간](https://github.com/fimuxd/RxSwift)
 
-### 관련 동영상
+#### 관련 동영상
 [곰튀김님 - RxSwift 4시간에 끝내기 시즌0](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 [곰튀김님 - RxSwift 4시간에 끝내기 시즌2](https://www.youtube.com/watch?v=iHKBNYMWd5I)
 [raywenderlich - RxSwift in Practice(RWDevCon 2016 Live Tutorial Session)](https://www.youtube.com/watch?v=W3zGx4TUaCE)
